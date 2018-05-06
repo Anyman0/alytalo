@@ -1,0 +1,2 @@
+# alytalo
+Ohjelmoinnin perusteet - harjoitustyö
